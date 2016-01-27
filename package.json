@@ -1,0 +1,14 @@
+{
+    "name": "template",
+    "devDependencies": {
+        "browser-sync": "^2.9.6",
+        "gulp": "^3.8.11",
+        "gulp-jade": "^1.1.0",
+        "gulp-sass": "^2.0.4",
+        "gulp-scss": "^1.2.0",
+        "jade": "^1.9.2"
+    },
+    "engines": {
+        "node": ">=4.0.0"
+    }
+}
